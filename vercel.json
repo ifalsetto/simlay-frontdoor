@@ -3,7 +3,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "STREAMLIT_APP_URL",
+      "destination": "https://storageunitsimlay.streamlit.app/",
       "permanent": false
     }
   ]
